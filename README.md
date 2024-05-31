@@ -11,7 +11,6 @@ This is a simple blog application that allows users to register, log in, create 
 - Creating blog posts
 - Commenting on blog posts
 - Viewing a list of all blog posts
-- Viewing individual blog posts
 
 ## Requirements
 
@@ -24,7 +23,7 @@ This is a simple blog application that allows users to register, log in, create 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/blog-app.git
+   git clone https://github.com/JanKulesza/blog.git
    ```
 2. **Start the web server:**
 
@@ -49,5 +48,9 @@ This is a simple blog application that allows users to register, log in, create 
 5. **Open your web browser and navigate to:**
 
     http://localhost/blog-app/index.php
+
+## Planned Updates
+1. Improving the visual design to enhance user experience.
+2. Adding more user-interface interactions
 
 
